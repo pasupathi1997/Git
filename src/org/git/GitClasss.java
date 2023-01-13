@@ -5,9 +5,13 @@ public class GitClasss {
 	private void code() {
 System.out.println("code one by master");
 	}
+	// two
+	private void codew() {
+System.out.println("code done by TWO"); }
 	//one
 	private void codeq() {
 System.out.println("code done by one");
+
 	}
 
 }
