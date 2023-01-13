@@ -6,6 +6,12 @@ public class GitClasss {
 System.out.println("code one by master");
 	}
 
+//four
+	private void ghi() {
+System.out.println("completed by four");
+	}
+
+
 	//three
 	private void luch() {
 System.out.println("code completed by three");
@@ -19,5 +25,6 @@ System.out.println("code done by one");
 
 
 	}
+
 
 }
