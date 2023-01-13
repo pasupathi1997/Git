@@ -5,5 +5,9 @@ public class GitClasss {
 	private void code() {
 System.out.println("code one by master");
 	}
+	//three
+	private void luch() {
+System.out.println("code completed by three");
+	}
 
 }
